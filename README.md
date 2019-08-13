@@ -12,6 +12,7 @@ This repo includes footprints for the following Teensy versions:
   - Teensy 3.2
   - Teensy 3.5
   - Teensy 3.6
+  - Teensy 4.0
   - Teensy LC
 
 For symbols look here: https://github.com/XenGi/teensy_library
