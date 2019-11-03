@@ -1,4 +1,4 @@
-(module Teensy40 (layer F.Cu) (tedit 5D532709)
+(module Teensy40 (layer F.Cu) (tedit 5DBF48DA)
   (fp_text reference REF** (at 0 -10.16) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -65,4 +65,9 @@
   (pad 42 thru_hole circle (at 8.89 2.54) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 43 thru_hole circle (at 11.43 5.08) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 44 thru_hole circle (at 8.89 5.08) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
+  (model ${KICAD_USER_DIR}/teensy.pretty/Teensy_4.0_Assembly.STEP
+    (offset (xyz 33 9.5 -11))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
