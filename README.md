@@ -22,4 +22,4 @@ by lines in the Dwgs.User layer) which create castellated connections for most
 pins.  Pins 2, 3, 31, 32 & 34 are not castellated and will require careful soldering
 and probably a wire to ensure a reliable connection.
 
-For symbols look here: https://github.com/XenGi/teensy_library
+For symbols look at [teensy_library](../teensy_library)
