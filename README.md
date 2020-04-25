@@ -1,7 +1,7 @@
 Teensy library for KiCAD
 =======================================
 
-This repo includes footprints for the following Teensy versions:
+This repo includes KiCAD footprints for the following Teensy versions:
 
   - Teensy 1.0
   - Teensy++ 1.0
@@ -15,6 +15,7 @@ This repo includes footprints for the following Teensy versions:
   - Teensy 3.6
   - Teensy 4.0 (Includes 3D Model)
   - Teensy 4.0 SMT (Includes 3D Model)
+  - Teensy 4.1 (Beta)
 
 Notes:
   - The Teensy 4.0 SMT footprint requires the addition of edge cuts (indicated
@@ -23,3 +24,4 @@ pins.  Pins 2, 3, 31, 32 & 34 are not castellated and will require careful solde
 and probably a wire to ensure a reliable connection.
 
 For symbols look here: https://github.com/XenGi/teensy_library
+or https://github.com/blackketter/teensy_library
