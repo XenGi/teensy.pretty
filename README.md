@@ -1,4 +1,4 @@
-Teensy library for KiCAD
+Teensy footprint library for KiCAD
 =======================================
 
 This repo includes KiCAD footprints for the following Teensy versions:
