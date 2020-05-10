@@ -24,4 +24,3 @@ pins.  Pins 2, 3, 31, 32 & 34 are not castellated and will require careful solde
 and probably a wire to ensure a reliable connection.
 
 For symbols look here: https://github.com/XenGi/teensy_library
-or https://github.com/blackketter/teensy_library
