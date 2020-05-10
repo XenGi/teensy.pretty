@@ -1,7 +1,7 @@
-Teensy library for KiCAD
+Teensy footprint library for KiCAD
 =======================================
 
-This repo includes footprints for the following Teensy versions:
+This repo includes KiCAD footprints for the following Teensy versions:
 
   - Teensy 1.0
   - Teensy++ 1.0
@@ -15,6 +15,7 @@ This repo includes footprints for the following Teensy versions:
   - Teensy 3.6
   - Teensy 4.0 (Includes 3D Model)
   - Teensy 4.0 SMT (Includes 3D Model)
+  - Teensy 4.1 (Beta)
 
 Notes:
   - The Teensy 4.0 SMT footprint requires the addition of edge cuts (indicated
