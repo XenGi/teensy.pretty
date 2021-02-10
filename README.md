@@ -23,6 +23,6 @@ by lines in the Dwgs.User layer) which create castellated connections for most
 pins.  Pins 2, 3, 31, 32 & 34 are not castellated and will require careful soldering
 and probably a wire to ensure a reliable connection.
 
-- There are two footprints for Teensy 3.0/3.1/3.2: one that includes the through-hole connections on Teensy and one that adds all of the SMT connections on the bottom of the Teensy.
+- There are two footprints for Teensy 3.0/3.1/3.2 and 3.5/3.6: one that includes the through-hole connections on Teensy and one that adds all of the SMT connections on the bottom of the Teensy.
 
 For symbols look here: https://github.com/XenGi/teensy_library
