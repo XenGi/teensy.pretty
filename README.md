@@ -18,7 +18,7 @@ This repo includes KiCAD footprints for the following Teensy versions:
 | Teensy 4.0*   | [Front](https://www.pjrc.com/teensy/card10a_rev2_web.pdf), [Back](https://www.pjrc.com/teensy/card10b_rev2_web.pdf) | ✔️ |
 | Teensy 4.1   | [Front](https://www.pjrc.com/teensy/card11a_rev3_web.pdf), [Back](https://www.pjrc.com/teensy/card11b_rev3_web.pdf) | ✔️ (by Zack Kummer) |
 
-* includes SMT version
+\* includes SMT version
 
 Notes:
   - The Teensy 4.0 SMT footprint requires the addition of edge cuts (indicated
