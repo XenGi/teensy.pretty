@@ -13,10 +13,10 @@ This repo includes KiCAD footprints for the following Teensy versions:
 | Teensy 3.1   | [Front](https://www.pjrc.com/teensy/card5a_rev7.pdf), [Back](https://www.pjrc.com/teensy/card5b_rev6.pdf) | ❌ |
 | Teensy 3.2   | [Front](https://www.pjrc.com/teensy/card7a_rev3_web.pdf), [Back](https://www.pjrc.com/teensy/card7b_rev3_web.pdf) | ❌ |
 | Teensy LC    | [Front](https://www.pjrc.com/teensy/card6a_rev4_web.pdf), [Back](https://www.pjrc.com/teensy/card6b_rev4_web.pdf) | ❌ |
-| Teensy 3.5   | [Front](https://www.pjrc.com/teensy/card8a_rev3_web.pdf), [Back](https://www.pjrc.com/teensy/card8b_rev3_web.pdf) | ✔️ (by Darcy) |
-| Teensy 3.6   | [Front](https://www.pjrc.com/teensy/card9a_rev2_web.pdf), [Back](https://www.pjrc.com/teensy/card9b_rev2_web.pdf) | ✔️ (by Darcy) |
+| Teensy 3.5   | [Front](https://www.pjrc.com/teensy/card8a_rev3_web.pdf), [Back](https://www.pjrc.com/teensy/card8b_rev3_web.pdf) | ✔️ (by [Darcy](https://forum.pjrc.com/members/44808-Darcy)) |
+| Teensy 3.6   | [Front](https://www.pjrc.com/teensy/card9a_rev2_web.pdf), [Back](https://www.pjrc.com/teensy/card9b_rev2_web.pdf) | ✔️ (by [Darcy](https://forum.pjrc.com/members/44808-Darcy)) |
 | Teensy 4.0*   | [Front](https://www.pjrc.com/teensy/card10a_rev2_web.pdf), [Back](https://www.pjrc.com/teensy/card10b_rev2_web.pdf) | ✔️ |
-| Teensy 4.1   | [Front](https://www.pjrc.com/teensy/card11a_rev3_web.pdf), [Back](https://www.pjrc.com/teensy/card11b_rev3_web.pdf) | ✔️ (by Zack Kummer) |
+| Teensy 4.1   | [Front](https://www.pjrc.com/teensy/card11a_rev3_web.pdf), [Back](https://www.pjrc.com/teensy/card11b_rev3_web.pdf) | ✔️ (by [Zack Kummer](https://grabcad.com/library/teensy-4-1-1)) |
 
 \* includes SMT version
 
