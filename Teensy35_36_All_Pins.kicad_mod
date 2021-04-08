@@ -148,7 +148,7 @@
   (pad 86 thru_hole circle (at -13.97 -2.54) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 88 thru_hole circle (at -27.94 1.01) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
   (pad 87 thru_hole circle (at -27.94 -1.01) (size 1.6 1.6) (drill 1.1) (layers *.Cu *.Mask))
-  (model ${KICAD_USER_DIR}/teensy.pretty/Teensy_3.6_Assembly.STEP
+  (model ${KICAD_USER_DIR}/teensy.pretty/Teensy_3.5_3.6_Assembly.STEP
     (offset (xyz -30.48 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
